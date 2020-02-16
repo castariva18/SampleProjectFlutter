@@ -1,4 +1,4 @@
-# firstflutter_app
+# SampleProjectFlutter
 
 A new Flutter application.
 
